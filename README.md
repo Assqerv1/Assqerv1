@@ -18,18 +18,34 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="10" alt="javascript logo"  />
+<br clear="both">
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="15" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="10" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="15" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="10" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="15" alt="python logo"  />
 </div>
 
 ###
 
 <div align="center">
   <img height="200" src="https://media.discordapp.net/attachments/1369414850463399956/1369696831872700477/Assqer.png?ex=686be714&is=686a9594&hm=14e4312b59160dd509c46dbc264a7d4e2be59a97474acb91325fdd380720d09d&=&format=webp&quality=lossless"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
 
 ###
